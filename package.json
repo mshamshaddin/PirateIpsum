@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fontsource/nanum-brush-script": "^5.0.12",
+    "@fontsource/seaweed-script": "^5.0.20"
+  }
+}
